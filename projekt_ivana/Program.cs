@@ -11,6 +11,7 @@ namespace projekt_ivana
         static void Main(string[] args)
         {
             Console.WriteLine("Novo22");
+            //marijin komentar
         }
     }
 }
