@@ -8,5 +8,6 @@ namespace projekt_ivana
 {
     class novaKlasa
     {
+        //prominila -m
     }
 }
