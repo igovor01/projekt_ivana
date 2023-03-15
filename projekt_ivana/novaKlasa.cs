@@ -9,5 +9,9 @@ namespace projekt_ivana
     class novaKlasa
     {
         //prominila -m
+        //komentar
+        int metoda(){
+        return 1;
+        }
     }
 }
