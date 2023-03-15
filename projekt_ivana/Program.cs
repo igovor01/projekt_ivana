@@ -10,7 +10,7 @@ namespace projekt_ivana
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Novo2");
+            Console.WriteLine("Novo22");
         }
     }
 }
