@@ -8,5 +8,9 @@ namespace projekt_ivana
 {
     class novaKlasa
     {
+        private static void Metoda(string[] args)
+        {
+           
+        }
     }
 }
